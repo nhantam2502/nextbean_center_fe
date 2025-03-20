@@ -1,2 +1,1 @@
-"# FE_IS" 
-"# FE_IS" 
+This project is designed to manage interns at Nextbean-center. The app track students' online and offline working hours, manage projects and tasks assigned by the project manager, and record the time spent by students throughout their internship period. 
